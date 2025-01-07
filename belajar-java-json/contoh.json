@@ -1,0 +1,13 @@
+{
+  "id": "1",
+  "name": "Shiro",
+  "hobbies": [
+    "Travelling",
+    "Gaming"
+  ],
+  "address": {
+    "city": "Jakarta",
+    "street": "Jl. Bahagia",
+    "country": "Indonesia"
+  }
+}
